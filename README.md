@@ -4,7 +4,7 @@ description: '“I wasn''t going to eat it, I was just going to taste it.” - W
 
 # Welcome to my Wiki
 
-This is my personal wiki\([digital garden](https://schof.co/digital-garden/)\) where I share everything I know about this world in form of an online [GitBook](https://wiki.stultus.in) hosted on [GitHub](https://github.com/stultus/wiki).
+This is my personal wiki\([digital garden](https://schof.co/digital-garden/)\) where I share things I know about this world in form of an online [GitBook](https://wiki.stultus.in) hosted on [GitHub](https://github.com/stultus/wiki).
 
 My Name is **Hrishikesh Bhaskaran** and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app). 
 
