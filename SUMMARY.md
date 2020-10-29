@@ -24,6 +24,10 @@
   * [Docker](devops/docker.md)
   * [Kubernetes](devops/kubernetes.md)
 * [Books](books.md)
+* [Law](law/README.md)
+  * [Copyright](law/copyright/README.md)
+    * [News Aggregators](law/copyright/news-aggregators.md)
+  * [Quasi-property right](law/quasi-property-right.md)
 * [Reading Notes](reading-notes/README.md)
   * [Paintings](reading-notes/paintings.md)
 

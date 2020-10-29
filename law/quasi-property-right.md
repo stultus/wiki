@@ -1,0 +1,2 @@
+# Quasi-property right
+
