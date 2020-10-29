@@ -12,4 +12,12 @@
     * [Lexical semantics](language-computing/semantics/lexical-semantics.md)
     * [Distributional semantics](language-computing/semantics/distributional-semantics.md)
 * [PeARS](pears.md)
+* [Programming](programming/README.md)
+  * [Python](programming/python.md)
+* [Devops](devops/README.md)
+  * [Amazon Web Services \(AWS\)](devops/amazon-web-services-aws.md)
+  * [Linux Administration](devops/linux-administration.md)
+  * [Nginx](devops/nginx.md)
+  * [Docker](devops/docker.md)
+  * [Kubernetes](devops/kubernetes.md)
 
