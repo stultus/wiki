@@ -23,4 +23,7 @@
   * [Nginx](devops/nginx.md)
   * [Docker](devops/docker.md)
   * [Kubernetes](devops/kubernetes.md)
+* [Books](books.md)
+* [Reading Notes](reading-notes/README.md)
+  * [Paintings](reading-notes/paintings.md)
 
