@@ -28,6 +28,8 @@
   * [Copyright](law/copyright/README.md)
     * [News Aggregators](law/copyright/news-aggregators.md)
   * [Quasi-property right](law/quasi-property-right.md)
+  * [Interesting Cases](law/interesting-cases/README.md)
+    * [DM Entertainment v Baby Gift House and Ors](law/interesting-cases/dm-entertainment-v-baby-gift-house-and-ors.md)
 * [Reading Notes](reading-notes/README.md)
   * [Paintings](reading-notes/paintings.md)
 
