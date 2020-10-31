@@ -23,6 +23,7 @@
   * [Nginx](devops/nginx.md)
   * [Docker](devops/docker.md)
   * [Kubernetes](devops/kubernetes.md)
+  * [Configuration Management](devops/configuration-management.md)
 * [Books](books.md)
 * [Law](law/README.md)
   * [Copyright](law/copyright/README.md)
