@@ -15,10 +15,10 @@ It is increasingly felt that action must be taken to prevent cyber-bullying and 
 
 There are several kinds of harassment and abuse that people face on the internet. Online violence and abuse can take many forms. The following are some forms of online violence:
 
-* Threats of violence: Direct and indirect threats of physical or sexual violence.
-* Violations of privacy: Sharing of sexual and private images without consent, and ‘doxxing’ \(revealing personal or identifying details without consent, with the aim to cause distress\).
-* Discrimination: Targeted content that is sexist, racist, homophobic or related to an individual’s identity that aims to belittle, humiliate or undermine them.
-* Online harassment: Sustained or repeated communications involving one or more people working together to target an individual, using abusive comments or images online, over a short or coordinated period of time, with the aim of humiliating or otherwise distressing them.
+* **Threats of violence**: Direct and indirect threats of physical or sexual violence.
+* **Violations of privacy**: Sharing of sexual and private images without consent, and ‘doxxing’ \(revealing personal or identifying details without consent, with the aim to cause distress\).
+* **Discrimination**: Targeted content that is sexist, racist, homophobic or related to an individual’s identity that aims to belittle, humiliate or undermine them.
+* **Online harassment**: Sustained or repeated communications involving one or more people working together to target an individual, using abusive comments or images online, over a short or coordinated period of time, with the aim of humiliating or otherwise distressing them.
 
 It is important to remember that online settings where such violence can occur include but are not limited to social media platforms like Twitter, Facebook and Instagram. They also include emails, messaging apps like WhatsApp and Viber; blog sites such as WordPress and Blogger, and even comments sections of different websites like news sites and YouTube.
 
