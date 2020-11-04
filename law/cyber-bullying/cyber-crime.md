@@ -1,7 +1,7 @@
 ---
 description: >-
   Note compiled by Athira Sujatha, Priyanka Navle, Adv. Anupama Sripathi and
-  Hrishikesh Bhaskaran as part of the public interest letter sent to social
+  Hrishikesh Bhaskaran as part of a public interest letter sent to social
   justice department, Kerala
 ---
 
