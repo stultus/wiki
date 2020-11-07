@@ -14,7 +14,7 @@ In india only 10% of the crimes against Dalits are getting reported, and even th
 
 The so called system & police maintain the peace by upholding the caste system. Annihilation of caste is a breach of peace. 
 
-Unlike other abominations like racism,  sexism and apartheid, caste system is not challenged by international forums. Because it is strongly fused with Hinduism. And Hinduism with it's good looking outfits - like vegetarianism, Gandhi and non-violence, yoga etc. - have a international acceptance.  Another reason is that the caste system is not colour coded like racism, so it is hard to get noticed, at-least from the outside. Also unlike apartheid, the cast system has admirers in high places. 
+Unlike other abominations like racism,  sexism and apartheid, caste system is not challenged by international forums. Because it is strongly fused with Hinduism. And Hinduism with it's good looking outfits - like vegetarianism, Gandhi and non-violence, yoga etc. - have a international acceptance.  Another reason is that the caste system is not colour coded like racism, so it is hard to get noticed, at-least from the outside. Also unlike apartheid, the caste system has admirers in high places. 
 
 Most of the Indian intellectuals think that caste system is an internal problem,  and left leaning Indian intelligentsia try to force-fit this into reductive Marxist class analysis, making caste even hard to see.
 
