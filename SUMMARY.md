@@ -12,6 +12,7 @@
     * [Lexical semantics](language-computing/semantics/lexical-semantics.md)
     * [Distributional semantics](language-computing/semantics/distributional-semantics.md)
 * [PeARS](pears.md)
+* [Decentralization](decentralization.md)
 * [Programming](programming/README.md)
   * [Python](programming/python/README.md)
     * [Django Web framework](programming/python/django-web-framework.md)
@@ -38,6 +39,7 @@
   * [Interesting Cases](law/interesting-cases/README.md)
     * [DM Entertainment v Baby Gift House and Ors](law/interesting-cases/dm-entertainment-v-baby-gift-house-and-ors.md)
 * [Reading Notes](reading-notes/README.md)
+  * [The doctor and the saint](reading-notes/the-doctor-and-the-saint.md)
   * [Breaking News: The Remaking of Journalism and Why It Matters Now](reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
   * [Paintings](reading-notes/paintings.md)
 
