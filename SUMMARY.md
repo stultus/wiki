@@ -28,6 +28,7 @@
   * [Kubernetes](devops/kubernetes.md)
   * [Configuration Management](devops/configuration-management.md)
 * [Books](books.md)
+* [Media / Journalism](media-journalism.md)
 * [Law](law/README.md)
   * [Cyber Crime](law/cyber-crime/README.md)
     * [Cyber Bullying](law/cyber-crime/cyber-bullying.md)
@@ -37,5 +38,6 @@
   * [Interesting Cases](law/interesting-cases/README.md)
     * [DM Entertainment v Baby Gift House and Ors](law/interesting-cases/dm-entertainment-v-baby-gift-house-and-ors.md)
 * [Reading Notes](reading-notes/README.md)
+  * [Breaking News: The Remaking of Journalism and Why It Matters Now](reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
   * [Paintings](reading-notes/paintings.md)
 
