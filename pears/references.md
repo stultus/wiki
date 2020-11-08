@@ -1,3 +1,7 @@
+---
+description: Useful resources for PeARS project
+---
+
 # References
 
 > The two pillars of application integrity are intrinsic data integrity and peer replication/validation. [\[1\]](https://developer.holochain.org/docs/concepts/1_the_basics/#key-takeaways)

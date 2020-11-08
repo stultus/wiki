@@ -7,7 +7,13 @@ description: >-
 
 # Distributional semantics
 
-_Distributional hypothesis: linguistic items with similar distributions have similar meanings._
+> _Distributional hypothesis: linguistic items with similar distributions have similar meanings._
+
+### Links for further reading
+
+* \*\*\*\*[**Distributional semantics: a light introduction -** Aurelie Herbelot](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+
+\_\_
 
 
 
