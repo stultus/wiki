@@ -11,6 +11,7 @@ description: Useful resources for PeARS project
 * [Wikipedia: Graph database](https://en.wikipedia.org/wiki/Graph_database)
 * [Wikipedia: Linked data](https://en.wikipedia.org/wiki/Linked_data)
 * [Holochain](https://holochain.org/) 
+* [Understanding searches better than ever before](https://www.blog.google/products/search/search-language-understanding-bert/) - Google blog
 
 
 
