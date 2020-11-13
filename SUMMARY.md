@@ -39,10 +39,10 @@
   * [Quasi-property right](law/quasi-property-right.md)
   * [Interesting Cases](law/interesting-cases/README.md)
     * [DM Entertainment v Baby Gift House and Ors](law/interesting-cases/dm-entertainment-v-baby-gift-house-and-ors.md)
+* [Philosophy](philosophy/README.md)
+  * [Henri Bergson](philosophy/henri-bergson.md)
 * [Reading Notes](reading-notes/README.md)
   * [The doctor and the saint](reading-notes/the-doctor-and-the-saint.md)
   * [Breaking News: The Remaking of Journalism and Why It Matters Now](reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
   * [Paintings](reading-notes/paintings.md)
-* [Philosophy](philosophy/README.md)
-  * [Henri Bergson](philosophy/henri-bergson.md)
 
