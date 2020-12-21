@@ -45,4 +45,5 @@
   * [The doctor and the saint](reading-notes/the-doctor-and-the-saint.md)
   * [Breaking News: The Remaking of Journalism and Why It Matters Now](reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
   * [Paintings](reading-notes/paintings.md)
+* [Already answered questions from the past](already-answered-questions-from-the-past.md)
 
