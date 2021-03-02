@@ -21,6 +21,7 @@
     * [Pyramid](programming/python/pyramid.md)
     * [FastAPI](programming/python/fastapi.md)
   * [Text editors](programming/text-editors/README.md)
+    * [OpenAPI Specification](programming/text-editors/openapi-specification.md)
     * [VIM](programming/text-editors/vim.md)
     * [VS Code](programming/text-editors/vs-code.md)
 * [Devops](devops/README.md)
