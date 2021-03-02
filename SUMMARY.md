@@ -19,6 +19,7 @@
     * [Django Web framework](programming/python/django-web-framework.md)
     * [Flask](programming/python/flask.md)
     * [Pyramid](programming/python/pyramid.md)
+    * [FastAPI](programming/python/fastapi.md)
   * [Text editors](programming/text-editors/README.md)
     * [VIM](programming/text-editors/vim.md)
     * [VS Code](programming/text-editors/vs-code.md)
