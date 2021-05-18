@@ -11,8 +11,6 @@
   * [Semantics](language-computing/semantics/README.md)
     * [Lexical semantics](language-computing/semantics/lexical-semantics.md)
     * [Distributional semantics](language-computing/semantics/distributional-semantics.md)
-* [PeARS](pears/README.md)
-  * [References](pears/references.md)
 * [Decentralization](decentralization.md)
 * [Operating Systems](operating-systems/README.md)
   * [Process Management](operating-systems/process-management.md)
@@ -68,4 +66,11 @@
 
 * [Poems](literature/poems/README.md)
   * [ഗൗരി  - ബാലചന്ദ്രൻ ചുള്ളിക്കാട്](literature/poems/undefined.md)
+
+## Projects
+
+---
+
+* [PeARS](pears/README.md)
+  * [References](pears/references.md)
 
