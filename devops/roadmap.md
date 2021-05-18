@@ -54,6 +54,34 @@ Some other options are -
 
 This is one of the main tasks DevOps engineers are entitled to do. Knowing how servers work and how to manage them is must-have knowledge.
 
+#### ✅ Operating Systems
+
+* Linux
+* Unix
+* Windows
+
+#### ✅ Learn to feel home at the Terminal
+
+* Sh/Bash/Zsh
+* Shell Scripting
+* Vim / Nano / Emacs
+* Compiling from source \(gcc, make etc\)
+* Text Manipulation \(awk, sed, grep etc\)
+* Process Monitoring \(ps, top, htop, lsof etc.\)
+* Network \(nmap, ping, traceroute, dig etc.\)
+* System Performance \(nmon, iostat, vmstat etc.\)
+* Others \(df, history, uname etc.\)
+
+### ✅ Networking, Security and Protocols 
+
+* HTTP
+* HTTPS
+* FTP
+* SSL/TLS
+* SSH
+* Port forwarding
+* Emails \(SMTP, IMAPS, POP3S, DMARC, SPF, Domain keys etc\)
+
 
 
 
