@@ -1,7 +1,7 @@
 ---
 description: >-
-  Step by step guide for Devops or any other Operations Role.  This document was
-  prepared as a starting point for TinkerHub Devops bootcamp
+  Step by step guide for DevOps or any other Operations Role.  This document was
+  prepared as a starting point for TinkerHub DevOps Bootcamp
 ---
 
 # Roadmap
@@ -52,7 +52,7 @@ Some other options are -
 
 ### ✅ Learn about Managing Servers
 
-This is one of the main tasks Devops engineers are entitled to do. Knowing how servers work and how to manage them is a must have knowledge.
+This is one of the main tasks DevOps engineers are entitled to do. Knowing how servers work and how to manage them is must-have knowledge.
 
 
 
