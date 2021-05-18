@@ -25,6 +25,7 @@
     * [VIM](programming/text-editors/vim.md)
     * [VS Code](programming/text-editors/vs-code.md)
 * [Devops](devops/README.md)
+  * [Roadmap](devops/roadmap.md)
   * [Amazon Web Services \(AWS\)](devops/amazon-web-services-aws.md)
   * [Linux Administration](devops/linux-administration.md)
   * [Nginx](devops/nginx.md)
