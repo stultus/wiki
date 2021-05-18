@@ -82,6 +82,29 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 * Port forwarding
 * Emails \(SMTP, IMAPS, POP3S, DMARC, SPF, Domain keys etc\)
 
+### ✅ How to setup a Web Server
+
+{% page-ref page="nginx.md" %}
+
+Other options are :
+
+* IIS
+* Apache
+* Tomcat
+* Caddy
+
+### ✅ How to setup a Reverse Proxy
+
+* Using Nginx
+
+### ✅ How to setup a Forward Proxy
+
+### ✅ How to setup a Caching Server
+
+### ✅ How to setup a Load Balancer
+
+### ✅ How to setup a Firewall
+
 
 
 
