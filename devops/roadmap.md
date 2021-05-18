@@ -14,6 +14,7 @@ See [roadmap.sh](https://roadmap.sh/devops) for a detailed roadmap
 
 * ✅  - Learn this at this step
 * 🟢  - Learn this, not necessarily now
+* 🟡 - Learn this, but not mandatory to start with
 
 ### ✅  Learn a Programming language 
 
@@ -29,6 +30,10 @@ Some other options are -
 * C++
 * Ruby
 * Node.js
+
+### ✅ Learn a version control system \(VCS\)
+
+{% page-ref page="../git.md" %}
 
 ###  🟢 Understand different OS concepts
 
@@ -60,6 +65,8 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 * Unix
 * Windows
 
+{% page-ref page="linux-administration.md" %}
+
 #### ✅ Learn to feel home at the Terminal
 
 * Sh/Bash/Zsh
@@ -72,7 +79,7 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 * System Performance \(nmon, iostat, vmstat etc.\)
 * Others \(df, history, uname etc.\)
 
-### ✅ Networking, Security and Protocols 
+#### ✅ Networking, Security and Protocols 
 
 * HTTP
 * HTTPS
@@ -93,17 +100,136 @@ Other options are :
 * Tomcat
 * Caddy
 
-### ✅ How to setup a Reverse Proxy
+#### ✅ How to setup a Reverse Proxy
 
 * Using Nginx
 
-### ✅ How to setup a Forward Proxy
+#### 🟡 How to setup a Forward Proxy
 
-### ✅ How to setup a Caching Server
+#### 🟢 How to setup a Caching Server
 
-### ✅ How to setup a Load Balancer
+#### 🟢 How to setup a Load Balancer
 
-### ✅ How to setup a Firewall
+#### 🟡 How to setup a Firewall
+
+### ✅  Cloud Providers
+
+{% page-ref page="amazon-web-services-aws.md" %}
+
+Other options are:
+
+* Google Cloud
+* Azure
+* Heroku
+* Digital Ocean
+* Linode
+* Vultr
+
+### ✅ Learn CI/CD Tools
+
+* Jenkins
+* Gitlab CI
+* Github Actions
+* Circle CI
+
+Other options are:
+
+* Travis CI
+* TeakCity
+* Bamboo
+* Azure Devops
+
+### ✅ Learn Infrastructure as Code
+
+#### ✅  Containers
+
+{% page-ref page="docker.md" %}
+
+Other option:
+
+* LXC
+
+#### ✅  Configuration Management
+
+* Ansible
+
+Other options:
+
+* Chef
+* Salt
+* Puppet
+
+#### ✅  Container Orchestration
+
+{% page-ref page="kubernetes.md" %}
+
+Other options:
+
+* Mesos
+* Docker Swarm
+* Nomad
+
+#### ✅  Infrastructure Provisioning 
+
+{% page-ref page="infrastructure-provisioning/terraform.md" %}
+
+{% page-ref page="infrastructure-provisioning/aws-cloudformation.md" %}
+
+Other options:
+
+* Pulumi
+
+### ✅ Learn how to monitor software and infrastructure
+
+#### ✅  Infrastructure Monitoring
+
+* Prometheus
+* Grafana
+
+Other options:
+
+* Nagios
+* Zobbix
+* Monit
+* Datadog
+
+#### ✅  Application Monitoring
+
+* Gaeger
+* New Relic
+
+Other options:
+
+* AppDynamics
+* Instana
+* OpenTracing
+
+#### ✅  Logs Management
+
+{% page-ref page="elastic-stack.md" %}
+
+Other options:
+
+* Graylog
+* Splunk
+* Papertrail
+
+### ✅ Cloud Design Patterns
+
+* Availability
+* Data Management
+* Design and Implementation
+* Management and Monitoring
+
+{% hint style="info" %}
+And Keep Learning
+{% endhint %}
+
+####  
+
+
+
+
 
 
 
