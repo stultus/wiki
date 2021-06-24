@@ -22,8 +22,6 @@ curl -sSL https://get.docker.com/ | sh
 sudo usermod -aG docker <user-username>
 ```
 
-
-
 #### Install `docker-machine` and `docker-compose` 
 
 * Follow the [official documentation](https://docs.docker.com/machine/install-machine/) to install docker machine
