@@ -1,3 +1,9 @@
+---
+description: >-
+  Docker is a set of platform as a service (PaaS) products that use OS-level
+  virtualization to deliver software in packages called containers.
+---
+
 # Docker
 
 ### Setup
@@ -18,7 +24,7 @@ sudo usermod -aG docker <user-username>
 
 
 
-#### Install Docker Machine and Docker Compose 
+#### Install `docker-machine` and `docker-compose` 
 
 * Follow the [official documentation](https://docs.docker.com/machine/install-machine/) to install docker machine
 * Follow the [official documentation](https://docs.docker.com/compose/install/) to install docker compose
