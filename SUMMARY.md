@@ -23,6 +23,7 @@
   * [Memory/Storage](operating-systems/memory-storage.md)
   * [File Systems](operating-systems/file-systems.md)
 * [Programming](programming/README.md)
+  * [Functional Programming](programming/functional-programming.md)
   * [Python](programming/python/README.md)
     * [Django Web framework](programming/python/django-web-framework.md)
     * [Flask](programming/python/flask.md)
