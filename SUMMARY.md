@@ -68,15 +68,13 @@
   * [Paintings](reading-notes/paintings.md)
 * [Already answered questions from the past](already-answered-questions-from-the-past.md)
 
+## Projects
+
+* [PeARS](projects/pears/README.md)
+  * [References](projects/pears/references.md)
+
 ## Literature
 
 * [Poems](literature/poems/README.md)
   * [ഗൗരി  - ബാലചന്ദ്രൻ ചുള്ളിക്കാട്](literature/poems/undefined.md)
-
-## Projects
-
----
-
-* [PeARS](pears/README.md)
-  * [References](pears/references.md)
 
