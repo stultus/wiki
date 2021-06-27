@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to my Wiki](README.md)
+* [Welcome](README.md)
 * [Stultus](stultus.md)
 * [FLOSS](floss/README.md)
   * [Free\(libre\) Software](floss/free-libre-software.md)

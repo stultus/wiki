@@ -2,7 +2,7 @@
 description: '“I wasn''t going to eat it, I was just going to taste it.” - Winnie the Pooh'
 ---
 
-# Welcome to my Wiki
+# Welcome
 
 This is my personal wiki\([digital garden](https://schof.co/digital-garden/)\) where I share things I know about this world in form of an online [GitBook](https://wiki.stultus.in) hosted on [GitHub](https://github.com/stultus/wiki).
 
