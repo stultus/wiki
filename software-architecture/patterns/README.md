@@ -1,4 +1,16 @@
+---
+description: >-
+  A pattern addresses a recurring design problem that arises in specific design
+  situations.
+---
+
 # Patterns
+
+{% hint style="info" %}
+Major portion of this page consists of my reading notes of the book -  [Pattern-Oriented Software Architecture - A System of Patterns](https://amzn.to/3dxC4R2) by Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal. Published by John Wiley & Sons as part of the 'Wiley series in software design patterns'. 
+
+This page may contain information from other sources as well. 
+{% endhint %}
 
 > " Somewhere in the deeply remote past it seriously traumatized a small random group of atoms drifting through the empty sterility of space and made them cling together in the most extraordinarily unlikely patterns. These patterns quickly learnt to copy themselves \(this was part of what was so extraordinary about the patterns\) and went on to cause massive trouble on every planet they drifted on to. That was how life began in the Universe.”  
 >  ― Douglas Adams, [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
