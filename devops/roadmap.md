@@ -114,7 +114,7 @@ Other options are :
 
 ### ✅  Cloud Providers
 
-{% page-ref page="amazon-web-services-aws.md" %}
+{% page-ref page="amazon-web-services-aws/" %}
 
 Other options are:
 
