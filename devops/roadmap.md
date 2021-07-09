@@ -26,8 +26,8 @@ Some other options are -
 
 * Go
 * Rust
-* C
-* C++
+* [C](../programming/c.md)
+* [C++](../programming/c++.md)
 * Ruby
 * Node.js
 
@@ -61,17 +61,17 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 
 #### ✅ Operating Systems
 
-* Linux
+* [Linux](../operating-systems/linux/)
 * Unix
-* Windows
+* [Windows](../operating-systems/windows.md)
 
 {% page-ref page="linux-administration.md" %}
 
 #### ✅ Learn to feel home at the Terminal
 
-* Sh/Bash/Zsh
-* Shell Scripting
-* Vim / Nano / Emacs
+* [Sh/Bash/Zsh](../shell.md)
+* [Shell Scripting](../shell.md)
+* [Vim / Nano / Emacs](../programming/text-editors/)
 * Compiling from source \(gcc, make etc\)
 * Text Manipulation \(awk, sed, grep etc\)
 * Process Monitoring \(ps, top, htop, lsof etc.\)
