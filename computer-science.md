@@ -7,5 +7,4 @@
 * [CoRecursive](https://corecursive.com/)
 * [Daniel Lemire](https://lemire.me/blog)
 * [Design Patterns Explained with Food](https://github.com/wesdoyle/design-patterns-explained-with-food)
-* [English++](https://englishplusplus.jcj.uj.edu.pl)  -  English for Computer Science students
-* 
+* * 
