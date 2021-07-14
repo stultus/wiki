@@ -72,6 +72,7 @@
 * [Books](books.md)
 * [Media / Journalism](media-journalism.md)
 * [Law](law/README.md)
+  * [Thought Process](law/thought-process.md)
   * [Cyber Crime](law/cyber-crime/README.md)
     * [Cyber Bullying](law/cyber-crime/cyber-bullying.md)
   * [Copyright](law/copyright/README.md)

@@ -18,4 +18,6 @@
 * [Compiler Explorer](https://godbolt.org)
 * [Engineering a Compiler](https://dl.acm.org/doi/pdf/10.5555/2737838)
 * [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+* [Coding Horror](https://blog.codinghorror.com)
+* \*\*\*\*[**The Art of Unix Programming**](http://catb.org/esr/writings/taoup/html/index.html)\*\*\*\*
 
