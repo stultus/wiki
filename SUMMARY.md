@@ -86,6 +86,8 @@
   * [Jeremy Bentham](philosophy/jeremy-bentham.md)
   * [Utilitarianism](philosophy/utilitarianism.md)
 * [Justice](justice.md)
+* [Academic Papers](academic-papers/README.md)
+  * [On the criteria to be used in decomposing systems into modules](academic-papers/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
 * [Writing](writing/README.md)
   * [Screen Writing](writing/screen-writing/README.md)
     * [Story Structure](writing/screen-writing/story-structure.md)
