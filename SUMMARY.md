@@ -88,6 +88,7 @@
 * [Justice](justice.md)
 * [Writing](writing/README.md)
   * [Screen Writing](writing/screen-writing/README.md)
+    * [Story Structure](writing/screen-writing/story-structure.md)
     * [Books](writing/screen-writing/books.md)
 * [Reading Notes](reading-notes/README.md)
   * [The doctor and the saint](reading-notes/the-doctor-and-the-saint.md)
