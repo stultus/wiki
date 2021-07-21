@@ -13,7 +13,7 @@ Then [Nandaja](https://nandaja.space) shared a link to a 2017 blog post by a cer
 #### Michael Feathers's list of 10 Papers Every Deveoper should Read
 
 * [On the criteria to be used in decomposing systems into modules](on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md) – David Parnas
-* A Note On Distributed Computing – Jim Waldo, Geoff Wyant, Ann Wollrath, Sam Kendall
+* [A Note On Distributed Computing](a-note-on-distributed-computing.md) – Jim Waldo, Geoff Wyant, Ann Wollrath, Sam Kendall
 * The Next 700 Programming Languages – P. J. Landin
 * Can Programming Be Liberated from the von Neumann Style? – John Backus
 * Reflections on Trusting Trust – Ken Thompson
