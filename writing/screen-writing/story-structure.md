@@ -10,7 +10,7 @@
 
 Here is a flow chart I created :
 
-![](../../.gitbook/assets/charecter-flow%20%281%29.png)
+![](../../.gitbook/assets/charecter-flow.png)
 
 * \*\*\*\*[**Story Structure 101: Super Basic Shit**](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)\*\*\*\*
 * \*\*\*\*[**Story Structure 102: Pure, Boring Theory**](https://channel101.fandom.com/wiki/Story_Structure_102:_Pure,_Boring_Theory)\*\*\*\*
