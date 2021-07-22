@@ -12,3 +12,9 @@ description: The study of meaning
 
 * [Making sense when nothing makes sense](https://aurelieherbelot.net/podcast/making-sense-when-nothing-makes-sense/)
 
+#### Related Pages
+
+{% page-ref page="../../philosophy/ludwig-wittgenstein.md" %}
+
+
+

@@ -85,6 +85,7 @@
   * [Henri Bergson](philosophy/henri-bergson.md)
   * [Jeremy Bentham](philosophy/jeremy-bentham.md)
   * [Utilitarianism](philosophy/utilitarianism.md)
+  * [Ludwig Wittgenstein](philosophy/ludwig-wittgenstein.md)
 * [Justice](justice.md)
 * [Academic Papers](academic-papers/README.md)
   * [On the criteria to be used in decomposing systems into modules](academic-papers/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
