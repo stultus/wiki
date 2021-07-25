@@ -45,6 +45,7 @@
 * [Networking](networking/README.md)
   * [Internet](networking/internet/README.md)
     * [E-mail](networking/internet/e-mail.md)
+* [Web Search](web-search.md)
 * [Language Computing](language-computing/README.md)
   * [Indic Language Computing](language-computing/indic-language-computing.md)
   * [Malayalam Computing](language-computing/malayalam-computing.md)
@@ -100,10 +101,12 @@
   * [Breaking News: The Remaking of Journalism and Why It Matters Now](reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
   * [Paintings](reading-notes/paintings.md)
 * [Already answered questions from the past](already-answered-questions-from-the-past.md)
+* [Worksheet / Rough Note](worksheet-rough-note.md)
 
 ## Projects
 
 * [PeARS](projects/pears/README.md)
+  * [Worksheet](projects/pears/worksheet.md)
   * [References](projects/pears/references.md)
 
 ## Literature
