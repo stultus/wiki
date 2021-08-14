@@ -65,6 +65,7 @@
   * [Configuration Management](devops/configuration-management.md)
   * [Elastic Stack](devops/elastic-stack.md)
   * [Infrastructure Provisioning](devops/infrastructure-provisioning/README.md)
+    * [Monitoring](devops/infrastructure-provisioning/monitoring.md)
     * [Terraform](devops/infrastructure-provisioning/terraform.md)
     * [AWS Cloudformation](devops/infrastructure-provisioning/aws-cloudformation.md)
   * [Cook Books](devops/cook-books.md)
