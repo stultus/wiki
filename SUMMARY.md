@@ -109,7 +109,8 @@
 
 * [PeARS](projects/pears/README.md)
   * [Worksheet](projects/pears/worksheet.md)
-  * [References](projects/pears/references.md)
+  * [References](projects/pears/references/README.md)
+    * [DHT](projects/pears/references/dht.md)
 
 ## Literature
 
