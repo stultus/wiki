@@ -31,6 +31,10 @@ Verify that you've installed Go by opening a command prompt and typing the follo
 $ go version
 ```
 
+#### Learning Roadmap
+
+![Source : https://github.com/Alikhll/golang-developer-roadmap](../.gitbook/assets/golang-developer-roadmap.png)
+
 #### Resources
 
 *  ****[**GoBooks**](https://github.com/dariubs/GoBooks)\*\*\*\*
