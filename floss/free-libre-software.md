@@ -5,5 +5,5 @@ description: >-
   study, change and improve the software.
 ---
 
-# Free\(libre\) Software
+# Free(libre) Software
 

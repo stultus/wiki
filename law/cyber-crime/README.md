@@ -7,16 +7,16 @@ description: >-
 
 # Cyber Crime
 
-### Background Note on Cyber Crime 
+### Background Note on Cyber Crime&#x20;
 
-It is increasingly felt that action must be taken to prevent cyber-bullying and trolling in order to make platforms safer for marginalized communities to safely represent their points of view. 
+It is increasingly felt that action must be taken to prevent cyber-bullying and trolling in order to make platforms safer for marginalized communities to safely represent their points of view.&#x20;
 
 ### What is online violence/online abuse?
 
 There are several kinds of harassment and abuse that people face on the internet. Online violence and abuse can take many forms. The following are some forms of online violence:
 
 * **Threats of violence**: Direct and indirect threats of physical or sexual violence.
-* **Violations of privacy**: Sharing of sexual and private images without consent, and ‘doxxing’ \(revealing personal or identifying details without consent, with the aim to cause distress\).
+* **Violations of privacy**: Sharing of sexual and private images without consent, and ‘doxxing’ (revealing personal or identifying details without consent, with the aim to cause distress).
 * **Discrimination**: Targeted content that is sexist, racist, homophobic or related to an individual’s identity that aims to belittle, humiliate or undermine them.
 * **Online harassment**: Sustained or repeated communications involving one or more people working together to target an individual, using abusive comments or images online, over a short or coordinated period of time, with the aim of humiliating or otherwise distressing them.
 
@@ -36,7 +36,7 @@ This law protects against the violation of a person’s privacy, transmitting ob
 * Section 67 punishes electronic publication or transmission of obscene material.
 * Section 67A deals particularly with the electronic publication or transmission of material that contains sexually explicit acts.
 * Section 67B relates to material depicting children in sexually explicit acts and includes under its purview not only those who create and publish but also whoever downloads digital images depicting children engaged in a sexually explicit act or conduct.
-* Section 66C Punishment for identity theft. -Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh. 
+* Section 66C Punishment for identity theft. -Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.&#x20;
 * Section 66D provides for Punishment for cheating by personation by using a computer resource. -Whoever, by means of any communication device or computer resource cheats by personating, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.
 
 ### Indian Penal Code:
@@ -52,28 +52,29 @@ Various provisions of the Indian Penal Code penalise sexually coloured remarks, 
 * Section 153A punishes those Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony
 * Section 290 Punishment for public nuisance in cases not otherwise pro­vided for.—Whoever commits a public nuisance in any case not otherwise punishable by this Code, shall be punished with fine which may extend to two hundred rupees
 * Section 354B Any man who assaults or uses criminal force to any woman or abets such act with the intention of disrobing or compelling her to be naked shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to seven years, and shall also be liable to fine.
-* Section 416 punishes cheating by impersonation 
+* Section 416 punishes cheating by impersonation&#x20;
 * Section 499 punishes defamation.—Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter expected, to defame that person.
 * Section 507 punishes criminal intimidation by anonymous communication.
 
-### The Indecent Representation of Women \(Prohibition\) Act
+### The Indecent Representation of Women (Prohibition) Act
 
 This Act prohibits the publication of any printed material containing indecent representation of women.
 
 * Section 4 prohibits the publication of any printed material containing indecent representation of women.
 * Section 6: Penalty.—Any person who contravenes the provisions of section 3 or section 4 shall be punishable on first conviction with imprisonment of either description for a term which may extend to two years, and with fine which may extend to two thousand rupees, and in the event of a second or subsequent conviction with imprisonment for a term of not less than six months but which may extend to five years and also with a fine not less than ten thousand rupees but which may extend to one lakh rupees.
 
-### The Sexual Harassment Of Women At Workplace \(Prevention, Prohibition and  Redressal\) Act, 2013 - \(POSH Act\) 
+### The Sexual Harassment Of Women At Workplace (Prevention, Prohibition and  Redressal) Act, 2013 - (POSH Act) 
 
-* This is an Act to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints of sexual harassment and for matters connected therewith or incidental thereto. 
-* As per the Section 2\(n\) of the Act “sexual harassment” includes any one or more of the following unwelcome acts or behaviour \(whether directly or by implication\) namely:— \(i\) physical contact and advances; or \(ii\) a demand or request for sexual favours; or \(iii\) making sexually coloured remarks; or \(iv\) showing pornography; or \(v\) any other unwelcome physical, verbal or non-verbal conduct of sexual nature;
+* This is an Act to provide protection against sexual harassment of women at workplace and for the prevention and redressal of complaints of sexual harassment and for matters connected therewith or incidental thereto.&#x20;
+* As per the Section 2(n) of the Act “sexual harassment” includes any one or more of the following unwelcome acts or behaviour (whether directly or by implication) namely:— (i) physical contact and advances; or (ii) a demand or request for sexual favours; or (iii) making sexually coloured remarks; or (iv) showing pornography; or (v) any other unwelcome physical, verbal or non-verbal conduct of sexual nature;
 
-### The Scheduled Castes and the Scheduled Tribes \(Prevention of Atrocities\) Act, 1989
+### The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989
 
-Section 3. \(1\) Whoever, not being a member of a Scheduled Caste or a Scheduled Tribe,- \(x\) intentionally insults or intimidates with intent to humiliate a member of a Scheduled Caste or a Scheduled Tribe in any place within public view;
+Section 3. (1) Whoever, not being a member of a Scheduled Caste or a Scheduled Tribe,- (x) intentionally insults or intimidates with intent to humiliate a member of a Scheduled Caste or a Scheduled Tribe in any place within public view;
 
-* \(xii\) being in a position to dominate the will of a woman belonging to a Scheduled Caste or a Scheduled Tribe and uses that position to exploit her sexually to which she would not have otherwise agreed; shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine.
-* \(v\) commits any offence under the Indian Penal Code \(45 of 1860\) punishable with imprisonment for a term of ten years or more against a person or property on the ground that such person is a member of a Scheduled Caste or a Scheduled Tribe or such property belongs to such member, shall be punishable with imprisonment for life and with fine;
+* (xii) being in a position to dominate the will of a woman belonging to a Scheduled Caste or a Scheduled Tribe and uses that position to exploit her sexually to which she would not have otherwise agreed;\
+  shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to five years and with fine.
+* (v) commits any offence under the Indian Penal Code (45 of 1860) punishable with imprisonment for a term of ten years or more against a person or property on the ground that such person is a member of a Scheduled Caste or a Scheduled Tribe or such property belongs to such member, shall be punishable with imprisonment for life and with fine;
 
 ### Article 21 in The Constitution Of India 1949
 
@@ -89,4 +90,3 @@ Amongst other things, provisions in the Act prevent sexual harassment of a child
 * Section 14 penalise anyone who uses a child for pornographic purposes
 
 Many perpetrators of online violence take refuge in the fact that they will not be readily identified. It is important for us to be responsible netizens and try to ensure that online violence is curbed as much as possible by holding those who perpetrate such violence accountable.
-

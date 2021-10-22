@@ -16,13 +16,15 @@ See [roadmap.sh](https://roadmap.sh/devops) for a detailed roadmap
 * 🟢  - Learn this, not necessarily now
 * 🟡 - Learn this, but not mandatory to start with
 
-### ✅  Learn a Programming language 
+### ✅  Learn a Programming language&#x20;
 
-You can pick a programming language of your choice.  All you need is some programming knowledge for automation. Since I am coming from a Python background, I'm listing some Python resources here.  
+You can pick a programming language of your choice.  All you need is some programming knowledge for automation. Since I am coming from a Python background, I'm listing some Python resources here. &#x20;
 
-{% page-ref page="../programming/python/" %}
+{% content-ref url="../programming/python/" %}
+[python](../programming/python/)
+{% endcontent-ref %}
 
-Some other options are - 
+Some other options are -&#x20;
 
 * Go
 * Rust
@@ -31,29 +33,49 @@ Some other options are -
 * Ruby
 * Node.js
 
-### ✅ Learn a version control system \(VCS\)
+### ✅ Learn a version control system (VCS)
 
-{% page-ref page="../git.md" %}
+{% content-ref url="../git.md" %}
+[git.md](../git.md)
+{% endcontent-ref %}
 
-###  🟢 Understand different OS concepts
+### &#x20;🟢 Understand different OS concepts
 
-{% page-ref page="../operating-systems/process-management.md" %}
+{% content-ref url="../operating-systems/process-management.md" %}
+[process-management.md](../operating-systems/process-management.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/threads-and-concurrency.md" %}
+{% content-ref url="../operating-systems/threads-and-concurrency.md" %}
+[threads-and-concurrency.md](../operating-systems/threads-and-concurrency.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/sockets.md" %}
+{% content-ref url="../operating-systems/sockets.md" %}
+[sockets.md](../operating-systems/sockets.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/posix.md" %}
+{% content-ref url="../operating-systems/posix.md" %}
+[posix.md](../operating-systems/posix.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/networking.md" %}
+{% content-ref url="../operating-systems/networking.md" %}
+[networking.md](../operating-systems/networking.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/i-o-management.md" %}
+{% content-ref url="../operating-systems/i-o-management.md" %}
+[i-o-management.md](../operating-systems/i-o-management.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/virtualization.md" %}
+{% content-ref url="../operating-systems/virtualization.md" %}
+[virtualization.md](../operating-systems/virtualization.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/memory-storage.md" %}
+{% content-ref url="../operating-systems/memory-storage.md" %}
+[memory-storage.md](../operating-systems/memory-storage.md)
+{% endcontent-ref %}
 
-{% page-ref page="../operating-systems/file-systems.md" %}
+{% content-ref url="../operating-systems/file-systems.md" %}
+[file-systems.md](../operating-systems/file-systems.md)
+{% endcontent-ref %}
 
 ### ✅ Learn about Managing Servers
 
@@ -65,21 +87,23 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 * Unix
 * [Windows](../operating-systems/windows.md)
 
-{% page-ref page="linux-administration.md" %}
+{% content-ref url="linux-administration.md" %}
+[linux-administration.md](linux-administration.md)
+{% endcontent-ref %}
 
 #### ✅ Learn to feel home at the Terminal
 
 * [Sh/Bash/Zsh](../shell.md)
 * [Shell Scripting](../shell.md)
 * [Vim / Nano / Emacs](../programming/text-editors/)
-* Compiling from source \(gcc, make etc\)
-* Text Manipulation \(awk, sed, grep etc\)
-* Process Monitoring \(ps, top, htop, lsof etc.\)
-* Network \(nmap, ping, traceroute, dig etc.\)
-* System Performance \(nmon, iostat, vmstat etc.\)
-* Others \(df, history, uname etc.\)
+* Compiling from source (gcc, make etc)
+* Text Manipulation (awk, sed, grep etc)
+* Process Monitoring (ps, top, htop, lsof etc.)
+* Network (nmap, ping, traceroute, dig etc.)
+* System Performance (nmon, iostat, vmstat etc.)
+* Others (df, history, uname etc.)
 
-#### ✅ Networking, Security and Protocols 
+#### ✅ Networking, Security and Protocols&#x20;
 
 * HTTP
 * HTTPS
@@ -87,11 +111,13 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 * SSL/TLS
 * SSH
 * Port forwarding
-* Emails \(SMTP, IMAPS, POP3S, DMARC, SPF, Domain keys etc\)
+* Emails (SMTP, IMAPS, POP3S, DMARC, SPF, Domain keys etc)
 
 ### ✅ How to setup a Web Server
 
-{% page-ref page="nginx.md" %}
+{% content-ref url="nginx.md" %}
+[nginx.md](nginx.md)
+{% endcontent-ref %}
 
 Other options are :
 
@@ -114,7 +140,9 @@ Other options are :
 
 ### ✅  Cloud Providers
 
-{% page-ref page="amazon-web-services-aws/" %}
+{% content-ref url="amazon-web-services-aws/" %}
+[amazon-web-services-aws](amazon-web-services-aws/)
+{% endcontent-ref %}
 
 Other options are:
 
@@ -143,7 +171,9 @@ Other options are:
 
 #### ✅  Containers
 
-{% page-ref page="docker.md" %}
+{% content-ref url="docker.md" %}
+[docker.md](docker.md)
+{% endcontent-ref %}
 
 Other option:
 
@@ -161,7 +191,9 @@ Other options:
 
 #### ✅  Container Orchestration
 
-{% page-ref page="kubernetes.md" %}
+{% content-ref url="kubernetes.md" %}
+[kubernetes.md](kubernetes.md)
+{% endcontent-ref %}
 
 Other options:
 
@@ -169,11 +201,15 @@ Other options:
 * Docker Swarm
 * Nomad
 
-#### ✅  Infrastructure Provisioning 
+#### ✅  Infrastructure Provisioning&#x20;
 
-{% page-ref page="infrastructure-provisioning/terraform.md" %}
+{% content-ref url="infrastructure-provisioning/terraform.md" %}
+[terraform.md](infrastructure-provisioning/terraform.md)
+{% endcontent-ref %}
 
-{% page-ref page="infrastructure-provisioning/aws-cloudformation.md" %}
+{% content-ref url="infrastructure-provisioning/aws-cloudformation.md" %}
+[aws-cloudformation.md](infrastructure-provisioning/aws-cloudformation.md)
+{% endcontent-ref %}
 
 Other options:
 
@@ -206,7 +242,9 @@ Other options:
 
 #### ✅  Logs Management
 
-{% page-ref page="elastic-stack.md" %}
+{% content-ref url="elastic-stack.md" %}
+[elastic-stack.md](elastic-stack.md)
+{% endcontent-ref %}
 
 Other options:
 
@@ -224,4 +262,3 @@ Other options:
 {% hint style="info" %}
 And Keep Learning
 {% endhint %}
-

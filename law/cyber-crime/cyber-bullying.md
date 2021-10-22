@@ -11,4 +11,3 @@ description: >-
 ## How indian law defines it?
 
 ## Cyber Bullying laws in other countries
-

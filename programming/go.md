@@ -2,16 +2,16 @@
 
 #### Installation
 
-* \*\*\*\*[ **Download and install from the Go website**](https://golang.org/doc/install)\*\*\*\*
-* \*\*\*\*[**Download page**](https://golang.org/dl/)\*\*\*\*
+* ****[** Download and install from the Go website**](https://golang.org/doc/install)****
+* ****[**Download page**](https://golang.org/dl/)****
 
-Visit the above links ****to ****to download the Go installer
+Visit the above links** **to** **to download the Go installer
 
 Extract the archive you downloaded into `/usr/local`, creating a Go tree in `/usr/local/go`.
 
- For example, run the following as root or through `sudo`: \(Change archive name as you need\)
+&#x20;For example, run the following as root or through `sudo`: (Change archive name as you need)
 
-```text
+```
 rm -rf /usr/local/go && tar -C /usr/local -xzf go1.16.6.linux-amd64.tar.gz
 ```
 
@@ -19,9 +19,9 @@ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.16.6.linux-amd64.tar.gz
 
 Add `/usr/local/go/bin` to the `PATH` environment variable.
 
- You can do this by adding the following line to your $HOME/.profile or /etc/profile \(for a system-wide installation\):
+&#x20;You can do this by adding the following line to your $HOME/.profile or /etc/profile (for a system-wide installation):
 
-```text
+```
 export PATH=$PATH:/usr/local/go/bin
 ```
 
@@ -35,7 +35,8 @@ $ go version
 
 ![Source : https://github.com/Alikhll/golang-developer-roadmap](../.gitbook/assets/golang-developer-roadmap.png)
 
+####
+
 #### Resources
 
-*  ****[**GoBooks**](https://github.com/dariubs/GoBooks)\*\*\*\*
-
+* ** **[**GoBooks**](https://github.com/dariubs/GoBooks)****

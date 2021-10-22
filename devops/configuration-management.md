@@ -4,4 +4,3 @@
 * Puppet
 * Ansible
 * Salt
-

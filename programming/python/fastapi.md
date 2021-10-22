@@ -6,5 +6,4 @@ description: >-
 
 # FastAPI
 
-[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
-
+[https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com)

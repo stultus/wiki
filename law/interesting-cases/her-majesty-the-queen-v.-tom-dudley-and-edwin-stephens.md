@@ -7,13 +7,11 @@ description: >-
 
 # Her Majesty The Queen v. Tom Dudley and Edwin Stephens
 
-![Richard Parker&apos;s Tombstone at Jesus Chapel, Peartree Green, Southampton](../../.gitbook/assets/800px-richardparkertombstone.jpg)
+![Richard Parker's Tombstone at Jesus Chapel, Peartree Green, Southampton](../../.gitbook/assets/800px-RichardParkerTombstone.jpg)
 
 {% hint style="info" %}
-More on Wikipedia: [R v Dudley and Stephens](https://en.wikipedia.org/wiki/R_v_Dudley_and_Stephens)
+More on Wikipedia: [R v Dudley and Stephens](https://en.wikipedia.org/wiki/R\_v\_Dudley\_and\_Stephens)
 {% endhint %}
 
-This is a 19th-century British law case that is famous and much debated in law schools. 
-
-
+This is a 19th-century British law case that is famous and much debated in law schools.&#x20;
 

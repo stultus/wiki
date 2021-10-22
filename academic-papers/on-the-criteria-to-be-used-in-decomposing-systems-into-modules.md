@@ -8,9 +8,11 @@ description: >-
 
 #### The actual paper
 
-{% file src="../.gitbook/assets/criteria\_for\_modularization.pdf" caption="On the criteria to be used in decomposing systems into modules" %}
+{% file src="../.gitbook/assets/criteria_for_modularization.pdf" %}
+On the criteria to be used in decomposing systems into modules
+{% endfile %}
 
-I collected the above paper from [here](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf) 
+I collected the above paper from [here](https://www.win.tue.nl/\~wstomv/edu/2ip30/references/criteria\_for\_modularization.pdf)&#x20;
 
 #### What is in it?
 
@@ -21,8 +23,6 @@ Quoting  [Michael Feathers](https://michaelfeathers.silvrback.com/bio),
 > This is a very old paper, but it is more than a classic. In in it, Parnas introduces a forerunner to the Single Responsibility Principle. He introduces the idea that we should use modularity to hide design decisions – things which could change. People still don’t consider this as often as they should.
 >
 > Another thing I really like in the paper is his comment on the KWIC system which he used as an example. He mentioned that it would take a good programmer a week or two to code. Today, it would take practically no time at all. Thumbs up for improved skills and better tools. We have made progress.
-
-
 
 
 

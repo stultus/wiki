@@ -3,4 +3,3 @@
 #### Resources
 
 * [Destination Linux Network](https://destinationlinux.network)
-

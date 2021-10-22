@@ -7,4 +7,3 @@ description: Free/Libre and Open Source Software
 #### Resources
 
 * [Choose an open source license](https://choosealicense.com)
-

@@ -6,7 +6,5 @@ description: >-
 
 # Functional Programming
 
-* The [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus), developed in the 1930s by [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church).
-
-
+* The [lambda calculus](https://en.wikipedia.org/wiki/Lambda\_calculus), developed in the 1930s by [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo\_Church).
 

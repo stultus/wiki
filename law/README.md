@@ -8,4 +8,3 @@ description: >-
 # Law
 
 * Plaintiff - A party bringing a suit in civil law against a defendant; accusers.
-
