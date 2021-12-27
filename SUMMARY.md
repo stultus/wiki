@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Stultus](stultus.md)
 * [FLOSS](floss/README.md)
-  * [Free\(libre\) Software](floss/free-libre-software.md)
+  * [Free(libre) Software](floss/free-libre-software.md)
   * [Open Source Software](floss/open-source-software.md)
 * [Computer Science](computer-science.md)
 * [Operating Systems](operating-systems/README.md)
@@ -56,7 +56,7 @@
 * [Devops](devops/README.md)
   * [Databases](devops/databases.md)
   * [Roadmap](devops/roadmap.md)
-  * [Amazon Web Services \(AWS\)](devops/amazon-web-services-aws/README.md)
+  * [Amazon Web Services (AWS)](devops/amazon-web-services-aws/README.md)
     * [Blue-Green deployment with EC2 and Cloudformation](devops/amazon-web-services-aws/blue-green-deployment-with-ec2-and-cloudformation.md)
   * [Linux Administration](devops/linux-administration.md)
   * [Nginx](devops/nginx.md)
@@ -72,6 +72,7 @@
 * [Shell](shell.md)
 * [Git](git.md)
 * [Mathematics](mathematics.md)
+* [Statistics](statistics.md)
 * [Books](books.md)
 * [Media / Journalism](media-journalism.md)
 * [Law](law/README.md)
@@ -116,4 +117,3 @@
 
 * [Poems](literature/poems/README.md)
   * [ഗൗരി  - ബാലചന്ദ്രൻ ചുള്ളിക്കാട്](literature/poems/undefined.md)
-
