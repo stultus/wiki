@@ -27,6 +27,10 @@ How much math a professional in the Software Engineering industry should learn -
 * Mathematical & Statistical Optimization
 * Mathematical & Statistical Modeling
 * Mathematical/Statistical/Logical Thinking Computational Math
+
+
+
 * [https://web.eecs.utk.edu/\~azh/blog/lessonsfrommyphd.html](https://web.eecs.utk.edu/\~azh/blog/lessonsfrommyphd.html)
+* [https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/](https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/)
 
 &#x20;
