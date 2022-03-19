@@ -4,27 +4,6 @@
 Most of the below links are from this [awesome list](django-web-framework.md#sites) by [Arjun Adhikari](https://adhikariarjun.com.np)
 {% endhint %}
 
-Awesome Django Blogs
-
-* [Awesome Django Blogs](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#awesome-django-blogs)
-  * [Sites](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#sites)
-  * [Cookbooks](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#cookbooks)
-  * [Medium Publications](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#medium-publications)
-  * [General Blogs](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#general-blogs)
-    * [ORM](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#orm)
-    * [Performance](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#performance)
-    * [Admin](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#admin)
-    * [Network](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#network)
-    * [Authentication](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#authentication)
-    * [Roadmap](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#roadmap)
-    * [Email](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#email)
-    * [Testing](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#testing)
-    * [REST](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#rest)
-    * [Extras](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#extras)
-    * [Deployment](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#deployment)
-    * [Authentication](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#authentication-1)
-    * [Forms](https://github.com/theArjun/awesome-django-blogs/blob/master/README.md#forms)
-
 ### Sites
 
 1. [Weblog](https://www.djangoproject.com/weblog/)
