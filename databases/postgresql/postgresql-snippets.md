@@ -10,7 +10,7 @@ WHERE l.relation = t.relid ORDER BY relation asc;
 
 
 
-## select 10 most largest Postgres tables
+## Select 10 most largest Postgres tables
 
 ```sql
 select schemaname as table_schema,

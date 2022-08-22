@@ -53,7 +53,7 @@
     * [Lexical semantics](language-computing/semantics/lexical-semantics.md)
     * [Distributional semantics](language-computing/semantics/distributional-semantics.md)
 * [Decentralization](decentralization.md)
-* [Databases](databases/README.md)
+* [Databases](devops/databases.md)
   * [PostgreSQL](databases/postgresql/README.md)
     * [PostgreSQL Snippets](databases/postgresql/postgresql-snippets.md)
 * [Devops](devops/README.md)
