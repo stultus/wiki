@@ -2,10 +2,10 @@
 
 #### Installation
 
-* ****[ **Download and install from the Go website**](https://golang.org/doc/install)****
+* ****[** Download and install from the Go website**](https://golang.org/doc/install)****
 * ****[**Download page**](https://golang.org/dl/)****
 
-Visit the above links **** to **** to download the Go installer
+Visit the above links** **to** **to download the Go installer
 
 Extract the archive you downloaded into `/usr/local`, creating a Go tree in `/usr/local/go`.
 
@@ -39,4 +39,4 @@ $ go version
 
 #### Resources
 
-* &#x20;**** [**GoBooks**](https://github.com/dariubs/GoBooks)****
+* ** **[**GoBooks**](https://github.com/dariubs/GoBooks)****

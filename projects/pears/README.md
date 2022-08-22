@@ -6,7 +6,7 @@ description: >-
 
 # PeARS
 
-### [Official Website](https://pearsproject.org/)
+### [Official Website](https://pearsproject.org)
 
 ![](../../.gitbook/assets/pears.jpg)
 

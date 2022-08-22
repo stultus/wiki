@@ -12,7 +12,7 @@ description: >-
 How to Read a Paper
 {% endfile %}
 
-A few days back,  [Nandaja](https://nandaja.space/) shared a link to a 2017 blog post by [Michael Feathers](https://michaelfeathers.silvrback.com/bio) titled [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice). It inspired me to start reading academic papers. So this is my attempt to form the habit of reading academic papers. I'll be starting with the ones listed in the above blog post. I'll also include the ones I read before. Let's hope it works.
+A few days back,  [Nandaja](https://nandaja.space) shared a link to a 2017 blog post by [Michael Feathers](https://michaelfeathers.silvrback.com/bio) titled [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice). It inspired me to start reading academic papers. So this is my attempt to form the habit of reading academic papers. I'll be starting with the ones listed in the above blog post. I'll also include the ones I read before. Let's hope it works.
 
 In the future, I'll move most of the papers listed here to a more relevant page. Until then, this is the place for me to dump the reading notes, relevant links and files.
 

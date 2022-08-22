@@ -16,7 +16,7 @@ eBPF was [described by](https://lkml.org/lkml/2015/4/14/232) Ingo Molnár as:
 
 #### BPF Compiler Collection (BCC)
 
-BCC makes BPF programs easier to write, with kernel instrumentation in C (and includes a C wrapper around [LLVM](https://llvm.org/)), and front-ends in Python and lua. It is suited for many tasks, including performance analysis and network traffic control.
+BCC makes BPF programs easier to write, with kernel instrumentation in C (and includes a C wrapper around [LLVM](https://llvm.org)), and front-ends in Python and lua. It is suited for many tasks, including performance analysis and network traffic control.
 
 #### Resources
 
