@@ -11,9 +11,9 @@ When developing an interactive software system, you have to consider two aspects
 
 To solve the problem, divide an interactive application into three areas: processing, output and input:
 
-* The **Model **component encapsulates core data and functionality. The model is independent of specific output representations or input behavior.&#x20;
-* **View **components display information to the user. A view obtains the data it displays from the model. There can be multiple views of the model.&#x20;
-* Each view has an associated **Controller **component. Controllers receive input, usually as events that denote user input from keyboard, mouse etc. Events are translated to service requests, which are sent either to the model or to the view. The user interacts with the system solely via controllers.&#x20;
+* The **Model** component encapsulates core data and functionality. The model is independent of specific output representations or input behavior.&#x20;
+* **View** components display information to the user. A view obtains the data it displays from the model. There can be multiple views of the model.&#x20;
+* Each view has an associated **Controller** component. Controllers receive input, usually as events that denote user input from keyboard, mouse etc. Events are translated to service requests, which are sent either to the model or to the view. The user interacts with the system solely via controllers.&#x20;
 
 Here the problem is supporting variability in user interfaces. This problem may arise when developing software systems with human-computer interaction. You can solve this problem by a strict separation of responsibilities: the core functionality of the application is separated from its user interface.
 

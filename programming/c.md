@@ -12,6 +12,6 @@
 * [C vararg recursive function - what is the syntax?](https://stackoverflow.com/a/46580137/10247460)
 * [ccan](https://ccodearchive.net)
 * [cdecl](https://cdecl.org)
-* [comp.lang.c Frequently Asked Questions](http://c-faq.com)
+* [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 *
 

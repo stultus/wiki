@@ -6,7 +6,7 @@ description: “I wasn't going to eat it, I was just going to taste it.” - Win
 
 This is my personal wiki([digital garden](https://schof.co/digital-garden/)) where I share things I know about this world in form of an online [GitBook](https://wiki.stultus.in) hosted on [GitHub](https://github.com/stultus/wiki).
 
-My Name is **Hrishikesh Bhaskaran **and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app).&#x20;
+My Name is **Hrishikesh Bhaskaran** and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app).&#x20;
 
 You can get in touch with me via [email](mailto:hello@stultus.in) or [Twitter](https://twitter.com/\_stultus).
 
@@ -14,11 +14,11 @@ You can get in touch with me via [email](mailto:hello@stultus.in) or [Twitter](h
 
 
 
-## Digital garden 🌱 <a href="grow-your-own-digital-garden" id="grow-your-own-digital-garden"></a>
+## Digital garden 🌱 <a href="#grow-your-own-digital-garden" id="grow-your-own-digital-garden"></a>
 
 In basic terms, it is a different format for written content on the web. It’s about moving away from blog posts ordered by dates and categories, into more of an interlinked web of notes. Blog posts are articles at a point in time, while here it is living document. [Digital gardens](https://joelhooks.com/digital-garden) are also known as [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) or Second Brain.
 
-Sometimes back when I stumbled upon [Nikita Voloboev's wiki](https://wiki.nikitavoloboev.xyz), it became a regular hangout place immediately. But the real inspiration for me to start this space was [Santhosh Thottingal](https://thottingal.in). When he started [his digital garden](https://docs.thottingal.in), I too wanted to try. And here we are.&#x20;
+Sometimes back when I stumbled upon [Nikita Voloboev's wiki](https://wiki.nikitavoloboev.xyz/), it became a regular hangout place immediately. But the real inspiration for me to start this space was [Santhosh Thottingal](https://thottingal.in/). When he started [his digital garden](https://docs.thottingal.in/), I too wanted to try. And here we are.&#x20;
 
 #### Other 'Digital Garden' resources
 
