@@ -11,7 +11,7 @@ description: >-
 
 ### Links for further reading
 
-* ****[**Distributional semantics: a light introduction - **Aurelie Herbelot](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+* ****[**Distributional semantics: a light introduction -** Aurelie Herbelot](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 
 __
 

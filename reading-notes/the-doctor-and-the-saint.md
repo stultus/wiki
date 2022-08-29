@@ -28,7 +28,7 @@ __
 
 ### Related Notes
 
-* _ Apartheid was a system of institutionalised racial segregation that existed in South Africa and South West Africa from 1948 until the early 1990s  - _[_Wikipedia_](https://en.wikipedia.org/wiki/Apartheid)_ _
+* &#x20;_Apartheid was a system of institutionalised racial segregation that existed in South Africa and South West Africa from 1948 until the early 1990s  -_ [_Wikipedia_](https://en.wikipedia.org/wiki/Apartheid) __&#x20;
 * Jim Crow laws were state and local laws that enforced racial segregation in the Southern United States. [Wikipedia](https://en.wikipedia.org/wiki/Jim\_Crow\_laws)
 
 ### Links for related reading

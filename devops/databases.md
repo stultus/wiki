@@ -2,4 +2,4 @@
 
 #### Resources
 
-* [DB-Engines](https://db-engines.com)
+* [DB-Engines](https://db-engines.com/)
