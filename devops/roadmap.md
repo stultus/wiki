@@ -93,8 +93,8 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 
 #### ✅ Learn to feel home at the Terminal
 
-* [Sh/Bash/Zsh](../shell/)
-* [Shell Scripting](../shell/)
+* [Sh/Bash/Zsh](../shell.md)
+* [Shell Scripting](../shell.md)
 * [Vim / Nano / Emacs](../programming/text-editors/)
 * Compiling from source (gcc, make etc)
 * Text Manipulation (awk, sed, grep etc)

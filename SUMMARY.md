@@ -71,7 +71,7 @@
     * [Terraform](devops/infrastructure-provisioning/terraform.md)
     * [AWS Cloudformation](devops/infrastructure-provisioning/aws-cloudformation.md)
   * [Cook Books](devops/cook-books.md)
-* [Shell](shell/README.md)
+* [Shell](shell.md)
   * [Useful Gists](shell/useful-gists/README.md)
     * [Losslessly optimising images](shell/useful-gists/losslessly-optimising-images.md)
 * [Git](git.md)
