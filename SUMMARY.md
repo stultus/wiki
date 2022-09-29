@@ -98,6 +98,8 @@
 * [Academic Papers](academic-papers/README.md)
   * [On the criteria to be used in decomposing systems into modules](academic-papers/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
   * [A Note On Distributed Computing](academic-papers/a-note-on-distributed-computing.md)
+* [Filmmaking](filmmaking/README.md)
+  * [Tools](filmmaking/tools.md)
 * [Writing](writing/README.md)
   * [Screen Writing](writing/screen-writing/README.md)
     * [Story Structure](writing/screen-writing/story-structure.md)
