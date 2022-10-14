@@ -112,6 +112,7 @@
   * [Paintings](reading-notes/paintings.md)
 * [Already answered questions from the past](already-answered-questions-from-the-past.md)
 * [Worksheet / Rough Note](worksheet-rough-note.md)
+* [Tools](tools.md)
 
 ## Projects
 
