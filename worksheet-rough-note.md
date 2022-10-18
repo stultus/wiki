@@ -32,5 +32,6 @@ How much math a professional in the Software Engineering industry should learn -
 
 * [https://web.eecs.utk.edu/\~azh/blog/lessonsfrommyphd.html](https://web.eecs.utk.edu/\~azh/blog/lessonsfrommyphd.html)
 * [https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/](https://philip.greenspun.com/blog/2021/12/27/teaching-information-security/)
+* [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
 
 &#x20;
