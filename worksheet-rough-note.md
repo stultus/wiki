@@ -35,3 +35,5 @@ How much math a professional in the Software Engineering industry should learn -
 * [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
 
 &#x20;
+
+<figure><img src=".gitbook/assets/broadred-logo.png" alt=""><figcaption></figcaption></figure>
