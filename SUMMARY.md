@@ -121,6 +121,8 @@
 * [Writing](writing/README.md)
   * [Screen Writing](writing/screen-writing/README.md)
     * [Story Structure](writing/screen-writing/story-structure.md)
+    * [Character Building](writing/screen-writing/character-building/README.md)
+      * [Enneagram](writing/screen-writing/character-building/enneagram.md)
     * [Books](writing/screen-writing/books.md)
   * [Academic Writing / Scientific Paper](writing/academic-writing-scientific-paper.md)
 * [Communication](communication/README.md)
