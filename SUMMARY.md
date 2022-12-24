@@ -123,6 +123,7 @@
     * [Story Structure](writing/screen-writing/story-structure.md)
     * [Character Building](writing/screen-writing/character-building/README.md)
       * [Enneagram](writing/screen-writing/character-building/enneagram.md)
+      * [Zodiac System](writing/screen-writing/character-building/zodiac-system.md)
     * [Books](writing/screen-writing/books.md)
   * [Academic Writing / Scientific Paper](writing/academic-writing-scientific-paper.md)
 * [Communication](communication/README.md)
