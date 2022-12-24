@@ -46,4 +46,4 @@ The wings, arrows, and stress and security points are important aspects of the E
 8. **The Challenger**: The wings of a Challenger are types 9 (the Peacemaker) and 8 (the Challenger). Under stress, a Challenger may move towards the direction of 7 (the Enthusiast) or 6 (the Loyalist). In a healthy state, they may move towards the direction of 1 (the Perfectionist) or 2 (the Helper). The stress and security points for a Challenger are types 3 (the Achiever) and 4 (the Individualist).
 9. **The Peacemaker**: The wings of a Peacemaker are types 1 (the Perfectionist) and 9 (the Peacemaker). Under stress, a Peacemaker may move towards the direction of 8 (the Challenger) or 7 (the Enthusiast). In a healthy state, they may move towards the direction of 3 (the Achiever) or 4 (the Individualist). The stress and security points for a Peacemaker are types 2 (the Helper) and 6 (the Loyalist).
 
-{% embed url="https://www.youtube.com/watch?v=nFGInL05iv" %}
+{% embed url="https://youtu.be/nFGInL05ivc" %}
