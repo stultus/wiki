@@ -16,7 +16,7 @@ You can get in touch with me via [email](mailto:hello@stultus.in) or [Twitter](h
 
 In basic terms, it is a different format for written content on the web. It’s about moving away from blog posts ordered by dates and categories, into more of an interlinked web of notes. Blog posts are articles at a point in time, while here it is living document. [Digital gardens](https://joelhooks.com/digital-garden) are also known as [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) or Second Brain.
 
-Sometimes back when I stumbled upon [Nikita Voloboev's wiki](https://wiki.nikitavoloboev.xyz/), it became a regular hangout place immediately. But the real inspiration for me to start this space was [Santhosh Thottingal](https://thottingal.in/). When he started [his digital garden](https://docs.thottingal.in/), I too wanted to try. And here we are.&#x20;
+Sometimes back when I stumbled upon[ Nikita Voloboev's wiki,](https://wiki.nikiv.dev/) it became a regular hangout place immediately. But the real inspiration for me to start this space was [Santhosh Thottingal](https://thottingal.in/). When he started [his digital garden](https://docs.thottingal.in/), I too wanted to try. And here we are.&#x20;
 
 #### Other 'Digital Garden' resources
 
