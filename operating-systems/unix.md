@@ -1,5 +1,9 @@
 # Unix
 
+Unix is a multi-user, multitasking operating system that was developed in the 1970s at AT\&T Bell Laboratories. It is a widely-used operating system that is known for its portability, security, and reliability. Unix is based on the concept of a "small, simple kernel," which means that it has a minimal set of core functionality and relies on a set of user programs to provide additional functionality. This modular design makes it easy to add new features and functionality to the operating system.
+
+Unix is widely used in many different types of environments, including servers, workstations, and embedded systems. It has also been the inspiration for many other operating systems, including Linux, BSD, and macOS.
+
 #### Resources
 
 * [**Beej's Guide to Unix Interprocess Communication**](https://beej.us/guide/bgipc/)

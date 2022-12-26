@@ -1,6 +1,16 @@
 # News Aggregators
 
+{% hint style="info" %}
 The legality of news aggregation remains fuzzy.&#x20;
+{% endhint %}
+
+#### General Observation
+
+The legality of news aggregation in terms of copyright can vary depending on the specific circumstances and laws of the country in question. In general, however, news aggregation sites that simply link to articles or other content published by other sources are generally not considered to be infringing on the copyright of the original content. This is because linking to content online is generally considered to be a fair use of the content, as it does not involve reproducing or distributing copies of the work.
+
+However, news aggregation sites that reproduce or republish significant portions of original news articles or other content may be infringing on the copyright of the original content. In these cases, the news aggregation site may need to obtain permission from the copyright holder or rely on fair use or fair dealing provisions in copyright law to use the content.
+
+It is important to note that the specific laws and regulations related to copyright and news aggregation can vary significantly from country to country. It is recommended to consult with a legal professional or seek guidance from a copyright office or other authority for more information about the specific laws and regulations that apply in your country.
 
 ### Hot news and misappropriation
 
