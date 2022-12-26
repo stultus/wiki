@@ -13,15 +13,15 @@ The eight stages of the Story Cycle are as follows:
 7. Midpoint: This stage marks the halfway point of the story and represents a significant event or realization for the main character.
 8. Bad Guys Close In: This stage represents the climax of the story, where the main character is faced with their greatest challenge and must overcome it in order to achieve their goal.
 
-![source: https://www.studiobinder.com/blog/downloads/story-circle-template/](../../../../.gitbook/assets/Dan-Harmon-Story-Circle.png)
+![source: https://www.studiobinder.com/blog/downloads/story-circle-template/](../../../.gitbook/assets/Dan-Harmon-Story-Circle.png)
 
 
 
-![](../../../../.gitbook/assets/story\_circle.jpg)
+![](../../../.gitbook/assets/story\_circle.jpg)
 
 Here is a flow chart I created :
 
-![](../../../../.gitbook/assets/charecter-flow.png)
+![](../../../.gitbook/assets/charecter-flow.png)
 
 * ****
 
