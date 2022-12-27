@@ -25,3 +25,5 @@ Sometimes back when I stumbled upon[ Nikita Voloboev's wiki,](https://wiki.nikiv
 ​[A curated list of awesome Public Zettelkastens / Second Brains / Digital Gardens](https://github.com/KasperZutterman/Second-Brain)​
 
 Don't be afraid to create one of your own and share what you know with the world.
+
+Also, check this [Digital Garden ToS](https://www.swyx.io/digital-garden-tos), by [swyx](https://www.swyx.io/about)&#x20;
