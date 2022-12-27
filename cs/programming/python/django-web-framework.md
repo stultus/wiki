@@ -1,7 +1,5 @@
 # Django Web framework
 
-Django is a powerful, open-source web framework for Python that encourages rapid development and clean, pragmatic design. It takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. Django includes a range of features and tools for building web applications, including a powerful ORM for managing database interactions, built-in support for user authentication and authorization, and a robust template system for creating dynamic HTML pages. Django follows the "batteries included" philosophy, providing developers with a vast array of functionality out of the box, making it a popular choice for building complex, data-driven websites and applications.
-
 {% hint style="info" %}
 Most of the below links are from this [awesome list](django-web-framework.md#sites) by [Arjun Adhikari](https://adhikariarjun.com.np/)
 {% endhint %}

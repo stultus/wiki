@@ -2,9 +2,6 @@
 
 * [Welcome](README.md)
 * [Stultus](stultus.md)
-* [FLOSS](floss/README.md)
-  * [Free(libre) Software](floss/free-libre-software.md)
-  * [Open Source Software](floss/open-source-software.md)
 
 ## Computer Science <a href="#cs" id="cs"></a>
 
@@ -97,6 +94,9 @@
     * [Usability Testing](product-engineering/user-research/usability-testing.md)
   * [Product Management](product-engineering/product-management.md)
   * [Estimation](product-engineering/estimation.md)
+* [FLOSS](floss/README.md)
+  * [Free(libre) Software](floss/free-libre-software.md)
+  * [Open Source Software](floss/open-source-software.md)
 * [Mathematics](mathematics.md)
 * [Statistics](statistics.md)
 * [Books](books.md)
