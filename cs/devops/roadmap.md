@@ -35,8 +35,8 @@ Some other options are -&#x20;
 
 ### ✅ Learn a version control system (VCS)
 
-{% content-ref url="../git.md" %}
-[git.md](../git.md)
+{% content-ref url="../git/" %}
+[git](../git/)
 {% endcontent-ref %}
 
 ### &#x20;🟢 Understand different OS concepts

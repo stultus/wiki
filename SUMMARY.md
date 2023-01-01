@@ -82,7 +82,8 @@
     * [Losslessly optimising images](cs/devops/cook-books/losslessly-optimising-images.md)
   * [Shell](cs/devops/shell/README.md)
     * [Useful Gists](cs/devops/shell/useful-gists.md)
-* [Git](cs/git.md)
+* [Git](cs/git/README.md)
+  * [Trunk-based development](cs/git/trunk-based-development.md)
 
 ***
 
