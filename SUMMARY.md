@@ -45,6 +45,7 @@
 * [Software Architecture](cs/software-architecture/README.md)
   * [Patterns](cs/software-architecture/patterns/README.md)
     * [Model - View - Controller](cs/software-architecture/patterns/model-view-controller.md)
+* [Design Patterns](cs/design-patterns.md)
 * [Networking](cs/networking/README.md)
   * [Internet](cs/networking/internet/README.md)
     * [E-mail](cs/networking/internet/e-mail.md)
@@ -82,7 +83,7 @@
     * [Losslessly optimising images](cs/devops/cook-books/losslessly-optimising-images.md)
   * [Shell](cs/devops/shell/README.md)
     * [Useful Gists](cs/devops/shell/useful-gists.md)
-* [Git](cs/git/README.md)
+* [Git](cs/git.md)
   * [Trunk-based development](cs/git/trunk-based-development.md)
 
 ***
