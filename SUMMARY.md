@@ -177,10 +177,10 @@
 ## Books
 
 * [Books Read in 2022](books-1/books-read-in-2022.md)
-* [Reading Notes](books-1/reading-notes/README.md)
-  * [The doctor and the saint](books-1/reading-notes/the-doctor-and-the-saint.md)
-  * [Breaking News: The Remaking of Journalism and Why It Matters Now](books-1/reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
-  * [Paintings](books-1/reading-notes/paintings.md)
+* [Reading Notes](miscellaneous/reading-notes/README.md)
+  * [The doctor and the saint](miscellaneous/reading-notes/the-doctor-and-the-saint.md)
+  * [Breaking News: The Remaking of Journalism and Why It Matters Now](miscellaneous/reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
+  * [Paintings](miscellaneous/reading-notes/paintings.md)
 
 ## Miscellaneous&#x20;
 

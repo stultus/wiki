@@ -22,3 +22,6 @@ Copywriting tool&#x20;
 
 {% embed url="https://copyleaks.com/features/ai-content-detector" %}
 
+* Open Journey - Midjounrey alternative&#x20;
+
+{% embed url="https://huggingface.co/prompthero/openjourney" %}
