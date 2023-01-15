@@ -12,7 +12,13 @@ Free Profile Picture Maker
 
 {% embed url="https://pfpmaker.com" %}
 
+* Copy.ai&#x20;
 
+Copywriting tool&#x20;
 
+{% embed url="https://app.copy.ai" %}
 
+* Ai content detector&#x20;
+
+{% embed url="https://copyleaks.com/features/ai-content-detector" %}
 

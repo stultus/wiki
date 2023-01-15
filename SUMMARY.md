@@ -101,6 +101,8 @@
   * [Design Systems](design/design-systems.md)
 * [Leadership](leadership/README.md)
   * [Delegation](leadership/delegation.md)
+  * [Talent Management](leadership/talent-management.md)
+  * [Career](leadership/career.md)
 * [FLOSS](floss/README.md)
   * [Free(libre) Software](floss/free-libre-software.md)
   * [Open Source Software](floss/open-source-software.md)
@@ -130,6 +132,7 @@
   * [On the criteria to be used in decomposing systems into modules](academic-papers/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
   * [A Note On Distributed Computing](academic-papers/a-note-on-distributed-computing.md)
 * [Academic Writing / Scientific Paper](academic-writing-scientific-paper.md)
+* [Entrepreneurship](entrepreneurship.md)
 * [Communication](communication/README.md)
   * [Negotiation](communication/negotiation.md)
 
@@ -171,12 +174,16 @@
   * [Malayalam / Videos](media/mentions/malayalam-videos.md)
   * [English / Text](media/mentions/english-text.md)
 
+## Books
+
+* [Books Read in 2022](books-1/books-read-in-2022.md)
+* [Reading Notes](books-1/reading-notes/README.md)
+  * [The doctor and the saint](books-1/reading-notes/the-doctor-and-the-saint.md)
+  * [Breaking News: The Remaking of Journalism and Why It Matters Now](books-1/reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
+  * [Paintings](books-1/reading-notes/paintings.md)
+
 ## Miscellaneous&#x20;
 
 * [Worksheet / Rough Note](miscellaneous/worksheet-rough-note.md)
 * [Already answered questions from the past](miscellaneous/already-answered-questions-from-the-past.md)
-* [Reading Notes](miscellaneous/reading-notes/README.md)
-  * [The doctor and the saint](miscellaneous/reading-notes/the-doctor-and-the-saint.md)
-  * [Breaking News: The Remaking of Journalism and Why It Matters Now](miscellaneous/reading-notes/breaking-news-the-remaking-of-journalism-and-why-it-matters-now.md)
-  * [Paintings](miscellaneous/reading-notes/paintings.md)
 * [Tools](miscellaneous/tools.md)
