@@ -45,6 +45,7 @@
 * [Software Architecture](cs/software-architecture/README.md)
   * [Patterns](cs/software-architecture/patterns/README.md)
     * [Model - View - Controller](cs/software-architecture/patterns/model-view-controller.md)
+  * [Books](cs/software-architecture/books.md)
 * [Design Patterns](cs/design-patterns.md)
 * [Networking](cs/networking/README.md)
   * [Internet](cs/networking/internet/README.md)
