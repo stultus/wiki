@@ -23,5 +23,5 @@ Here is a flow chart I created :
 
 ![](../../../../../.gitbook/assets/charecter-flow.png)
 
-* ****
+*
 

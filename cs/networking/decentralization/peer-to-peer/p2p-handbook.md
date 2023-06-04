@@ -12,7 +12,7 @@ This is a work in progress &  It is incomplete.&#x20;
 
 ## What is P2P&#x20;
 
-<figure><img src="../../../.gitbook/assets/Unstructured_peer-to-peer_network_diagram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Unstructured_peer-to-peer_network_diagram.png" alt=""><figcaption></figcaption></figure>
 
 Peer-to-peer (P2P) is a specific type of relational dynamic, which refers to the way in which nodes in a network interact and relate to each other. In a P2P system, the nodes are assumed to be equally capable and autonomous and are able to cooperate freely with each other in order to achieve a common goal or task.
 
@@ -40,4 +40,4 @@ In the late 1990s and early 2000s, P2P systems gained significant attention with
 
 In the past few decades, P2P systems have continued to evolve and have found a wide range of applications, including content distribution, distributed computing, and blockchain technology. Today, P2P systems are an important part of the computing landscape and are expected to play an increasingly important role in the future of computing.
 
-<figure><img src="../../../.gitbook/assets/1 qNZwhkmhcqXyRVpFJ1qG5A.jpeg" alt=""><figcaption><p>Source : <a href="https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122">https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1 qNZwhkmhcqXyRVpFJ1qG5A.jpeg" alt=""><figcaption><p>Source : <a href="https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122">https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122</a></p></figcaption></figure>

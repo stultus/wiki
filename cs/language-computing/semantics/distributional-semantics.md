@@ -19,9 +19,9 @@ Distributional semantics has a wide range of applications in NLP, including word
 
 ### Links for further reading
 
-* ****[**Distributional semantics: a light introduction -** Aurelie Herbelot](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+* [**Distributional semantics: a light introduction -** Aurelie Herbelot](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 
-__
+
 
 
 

@@ -6,7 +6,7 @@ Process management is a crucial aspect of operating systems that deals with the 
 
 When a program is loaded into memory and executed, it becomes a process that is divided into four sections: stack, heap, text, and data. The image below illustrates a simplified representation of the layout of a process in main memory.
 
-<figure><img src="../../.gitbook/assets/process.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/process.png" alt=""><figcaption></figcaption></figure>
 
 
 

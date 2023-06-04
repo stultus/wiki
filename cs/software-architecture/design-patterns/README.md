@@ -16,6 +16,6 @@ It is important to note that design patterns are not a one-size-fits-all solutio
 
 Architectural patterns
 
-{% content-ref url="software-architecture/patterns/" %}
-[patterns](software-architecture/patterns/)
+{% content-ref url="../patterns/" %}
+[patterns](../patterns/)
 {% endcontent-ref %}

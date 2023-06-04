@@ -41,40 +41,40 @@ Some other options are -&#x20;
 
 ### &#x20;🟢 Understand different OS concepts
 
-{% content-ref url="../operating-systems/process-management.md" %}
-[process-management.md](../operating-systems/process-management.md)
+{% content-ref url="../computer-science/operating-systems/process-management.md" %}
+[process-management.md](../computer-science/operating-systems/process-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/threads-and-concurrency.md" %}
-[threads-and-concurrency.md](../operating-systems/threads-and-concurrency.md)
+{% content-ref url="../computer-science/operating-systems/threads-and-concurrency.md" %}
+[threads-and-concurrency.md](../computer-science/operating-systems/threads-and-concurrency.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/sockets.md" %}
-[sockets.md](../operating-systems/sockets.md)
+{% content-ref url="../computer-science/operating-systems/sockets.md" %}
+[sockets.md](../computer-science/operating-systems/sockets.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/posix.md" %}
-[posix.md](../operating-systems/posix.md)
+{% content-ref url="../computer-science/operating-systems/posix.md" %}
+[posix.md](../computer-science/operating-systems/posix.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/networking.md" %}
-[networking.md](../operating-systems/networking.md)
+{% content-ref url="../computer-science/operating-systems/networking.md" %}
+[networking.md](../computer-science/operating-systems/networking.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/i-o-management.md" %}
-[i-o-management.md](../operating-systems/i-o-management.md)
+{% content-ref url="../computer-science/operating-systems/i-o-management.md" %}
+[i-o-management.md](../computer-science/operating-systems/i-o-management.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/virtualization.md" %}
-[virtualization.md](../operating-systems/virtualization.md)
+{% content-ref url="../computer-science/operating-systems/virtualization.md" %}
+[virtualization.md](../computer-science/operating-systems/virtualization.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/memory-storage.md" %}
-[memory-storage.md](../operating-systems/memory-storage.md)
+{% content-ref url="../computer-science/operating-systems/memory-storage.md" %}
+[memory-storage.md](../computer-science/operating-systems/memory-storage.md)
 {% endcontent-ref %}
 
-{% content-ref url="../operating-systems/file-systems.md" %}
-[file-systems.md](../operating-systems/file-systems.md)
+{% content-ref url="../computer-science/operating-systems/file-systems.md" %}
+[file-systems.md](../computer-science/operating-systems/file-systems.md)
 {% endcontent-ref %}
 
 ### ✅ Learn about Managing Servers
@@ -83,9 +83,9 @@ This is one of the main tasks DevOps engineers are entitled to do. Knowing how s
 
 #### ✅ Operating Systems
 
-* [Linux](../operating-systems/linux/)
+* [Linux](../computer-science/operating-systems/linux/)
 * Unix
-* [Windows](../operating-systems/windows.md)
+* [Windows](../computer-science/operating-systems/windows.md)
 
 {% content-ref url="linux-administration.md" %}
 [linux-administration.md](linux-administration.md)

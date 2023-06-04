@@ -2,9 +2,9 @@
 
 #### Resources
 
-* ****[**The Programming Process**](http://www2.hawaii.edu/\~takebaya/ics111/process\_of\_programming/process\_of\_programming.html) ****&#x20;
-* &#x20;**** [**free-programming-books**](https://github.com/EbookFoundation/free-programming-books)****
-* ****[**A place for all of your development resources**](https://devsource.netlify.app)****
+* [**The Programming Process**](http://www2.hawaii.edu/\~takebaya/ics111/process\_of\_programming/process\_of\_programming.html)&#x20;
+* &#x20;[**free-programming-books**](https://github.com/EbookFoundation/free-programming-books)
+* [**A place for all of your development resources**](https://devsource.netlify.app)
 * [**Beej's Guide to the GNU Debugger (GDB)**](https://beej.us/guide/bggdb/)
 * [A Tutorial on Portable Makefiles](https://nullprogram.com/blog/2017/08/20/)
 * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
@@ -19,7 +19,7 @@
 * [Engineering a Compiler](https://dl.acm.org/doi/pdf/10.5555/2737838)
 * [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 * [Coding Horror](https://blog.codinghorror.com)
-* ****[**The Art of Unix Programming**](http://catb.org/esr/writings/taoup/html/index.html)****
+* [**The Art of Unix Programming**](http://catb.org/esr/writings/taoup/html/index.html)
 
 ### Books
 
