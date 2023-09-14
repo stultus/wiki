@@ -10,7 +10,9 @@ My Name is **Hrishikesh Bhaskaran** and I am a Software Engineer, currently work
 
 You can get in touch with me via [email](mailto:hello@stultus.in) or [Twitter](https://twitter.com/\_stultus).
 
-<figure><img src=".gitbook/assets/profile-pic-3.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src=".gitbook/assets/Hrishi photo.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Digital garden 🌱 <a href="#grow-your-own-digital-garden" id="grow-your-own-digital-garden"></a>
 
