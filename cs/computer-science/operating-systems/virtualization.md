@@ -1,0 +1,7 @@
+# Virtualization
+
+Virtualization is a technology that allows a single physical machine to be divided into multiple virtual machines, each of which can run its own operating system and applications. Virtualization allows multiple virtual machines to share the resources of a single physical machine, such as CPU, memory, and storage, and can be used to improve the utilization and efficiency of those resources. It also allows administrators to easily create and manage multiple isolated environments on a single physical machine, which can be useful for testing, development, and deployment.
+
+There are several types of virtualization, including server virtualization, desktop virtualization, and network virtualization. Server virtualization involves creating multiple virtual servers on a single physical server, which can improve the utilization and flexibility of server resources. Desktop virtualization involves creating virtual desktop environments that can be accessed remotely by users, which can improve security and reduce the need for physical hardware. Network virtualization involves creating virtual networks on top of a physical network, which can improve the flexibility and scalability of network infrastructure.
+
+Virtualization has become an important technology in the field of computing, and is widely used in many different types of environments, including data centers, cloud computing, and enterprise IT. It has also played a major role in the development of infrastructure as a service (IaaS) and other cloud computing models.
