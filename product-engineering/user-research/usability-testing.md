@@ -80,33 +80,33 @@ I understand and consent to the use and release of the recording by **\[full org
 
 I understand that participation is voluntary and I agree to immediately raise any concerns I might have.
 
-
+***
 
 If you have any questions after today, please contact **\[your personal name]** (**\[your email address]**).
 
 Please sign below to indicate that you have read and understand the information on this form and that any questions you might have about the session have been answered.
 
-
+***
 
 Date:
 
-
+***
 
 Please print your name:
 
-
+***
 
 Please sign your name:
 
-
+***
 
 Please include your mailing address (this is where we'll send your compensation):
 
-
+***
 
 (Street Address)
 
-
+***
 
 (City, State / Region, Postal Code, Country)
 

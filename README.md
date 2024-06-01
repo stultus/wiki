@@ -12,7 +12,7 @@ You can get in touch with me via [email](mailto:hello@stultus.in) or [Twitter](h
 
 
 
-<figure><img src=".gitbook/assets/Hrishi photo.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/hrishi.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Digital garden 🌱 <a href="#grow-your-own-digital-garden" id="grow-your-own-digital-garden"></a>
 
